@@ -1,0 +1,15 @@
+# compiled output
+/dist
+/node_modules
+
+# Logs
+yarn-error.log*
+
+# OS
+.DS_Store
+
+# Tests
+/coverage
+
+# Environments
+.env
