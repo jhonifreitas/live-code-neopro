@@ -6,6 +6,10 @@ Consiste em criar 2 endpoints.
 O primeiro deve pegar os dados de uma api, organizar os objetos e salvar em um banco de dados MongoDB utilizando mongoose.
 O segundo deve recuperar os dados do banco de dados, organizar os objetos e retornar no response.
 
+## Requisitos
+- Node
+- MongoDB
+
 ### Etapas
 - Criar o primeiro endpoint que recebe uma data via método GET
 - Fazer uma request para [api neopro](https://api.neopro.com.br/v1/test/sales?month=2022-09-01T00:00:00.000Z) passando a data como parâmetro
